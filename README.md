@@ -29,15 +29,14 @@ I enjoy designing high-performance backend systems, optimizing databases, and bu
 * Laravel
 * Ruby on Rails
 * Flask
-* Deno
+* Spring Boot
 
 ### Frontend
 
 * Vue.js
 * Nuxt.js
-* React
-* Inertia.js
-* Flutter
+* React.js
+* Next.js
 
 ### Databases
 
@@ -60,7 +59,6 @@ I enjoy designing high-performance backend systems, optimizing databases, and bu
 * Vector Embeddings
 * Semantic Search
 * Recommendation Systems
-* RAG Applications
 
 ### Real-Time Systems
 
