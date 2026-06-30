@@ -14,7 +14,7 @@ I enjoy designing high-performance backend systems, optimizing databases, and bu
 * 🌱 Exploring AI-powered applications, RAG systems, vector search, and recommendation engines
 * 💡 Passionate about system design, microservices, real-time communication, and distributed architectures
 * ☁️ Experienced with cloud deployments, Docker, CI/CD, and production operations
-* 🎥 Built livestreaming, recommendation, and semantic search systems from scratch
+* 🎥 Built recommendation, and semantic search systems from scratch
 * 🚚 Developed e-commerce and delivery platforms serving customers, drivers, and merchants
 * 📍 Based in Phnom Penh, Cambodia
 
